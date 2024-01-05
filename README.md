@@ -49,4 +49,5 @@ Know that it will not clutter up an existing folder so make sure it doesn't exis
 
 ## Credits
 [Tihmstar](https://github.com/tihmstar) - img3tool and img4tool (Used for actually decrypting and/or unpacking payloads)
+
 [realnp](https://github.com/realnp) - ibootim (For converting the ibootim images into the .pngs)
