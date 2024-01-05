@@ -1,6 +1,13 @@
 # iLogoExtractor
 A utility to extract pictures like the Apple logo or the battery logos from an IPSW
 
+# Download Release
+To download one of the available binaries, see the [releases page](https://github.com/XboxOneSogie720/iLogoExtractor/releases):
+* macOS (x86_64)
+* macOS (arm64)
+* macOS (Universal)
+* Linux (x86_64, tested on Ubuntu)
+
 # Build Instructions
 ### Note: iLogoExtractor does not currently support Windows at all
 
