@@ -37,6 +37,7 @@ Run the build script to compile:
 
 # Usage
 ```./iLogoExtractor <IPSW> <Output Folder>```
+
 Know that it will not clutter up an existing folder so make sure it doesn't exist yet
 
 # Features
