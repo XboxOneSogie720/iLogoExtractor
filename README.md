@@ -1,5 +1,5 @@
 # iLogoExtractor
-A utility to extract pictures like the Apple logo or the battery logos from an IPSW
+A utility to automatically extract iBoot images like the Apple logo to a specified output folder
 
 # Download Release
 To download one of the available binaries, see the [releases page](https://github.com/XboxOneSogie720/iLogoExtractor/releases):
