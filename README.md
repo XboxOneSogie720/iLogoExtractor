@@ -1,5 +1,7 @@
 # iLogoExtractor
 A utility to automatically extract iBoot images like the Apple logo to a specified output folder
+![Build Status](https://img.shields.io/badge/Build_Status-macOS_&_Linux-green)
+![Windows Support Progress](https://img.shields.io/badge/Windows_Support-Installing_Bootcamp_to_Start_Testing-yellow)
 
 # Download Release
 To download one of the available binaries, see the [releases page](https://github.com/XboxOneSogie720/iLogoExtractor/releases):
