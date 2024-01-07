@@ -9,7 +9,7 @@ To download one of the available binaries, see the [releases page](https://githu
 * Linux (x86_64, tested on Ubuntu)
 
 # Build Instructions
-### Note: iLogoExtractor does not currently support Windows at all
+### Note: iLogoExtractor does not currently support Windows at all (but I'm working on it)
 
 Install Dependencies (not including deps for these listed):
 * macOS & Linux
