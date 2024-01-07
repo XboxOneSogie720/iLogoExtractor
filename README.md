@@ -29,10 +29,14 @@ Install Dependencies (not including deps for these listed):
 * Linux Specific:
   * [liblzfse](https://github.com/lzfse/lzfse)
  
-Run the build script to compile:
+Use CMake to build and install iLogoExtractor:
 
 ```bash
-./build.sh
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
 ```
 
 # Usage
