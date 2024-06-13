@@ -183,9 +183,9 @@ ile_error_t close_work(char** work_dir_path) {
     
     /* Delete the directory */
     if (rmdir(*work_dir_path) != 0) {
-        free(*work_dir_path);
         printf("%d\n", rmdir(*work_dir_path));
         printf("%s\n", *work_dir_path);
+        free(*work_dir_path);
         return ILE_E_COULD_NOT_DELETE_WORK_DIR;
     }
     
